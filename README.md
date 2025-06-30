@@ -1,2 +1,2 @@
-# Sitthinan-Django-templete
-นี่คือ Django app แรกของฉัน
+# my_django_template
+Django app with template
